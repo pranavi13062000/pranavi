@@ -20,7 +20,7 @@ import java.util.Scanner;
 /*Very very simple Java Calculator for beginners just for 4 operations on 
  * two variables without exception and while loop*/
 
-public class SimpleCalculator {
+public class DemoServlet {
 	Scanner scan = new Scanner(System.in); 
 	
 	
