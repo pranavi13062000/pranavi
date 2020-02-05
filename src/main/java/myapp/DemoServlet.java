@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-package myapp;
 
 import java.util.Locale;
 import java.util.Scanner;
