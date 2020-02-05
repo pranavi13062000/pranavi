@@ -83,7 +83,7 @@ public class DemoServlet {
 	}
 
 	public static void main(String[] args) {
-		SimpleCalculator calc = new SimpleCalculator();
+		DemoServlet calc = new DemoServlet();
 		Scanner scan = new Scanner(System.in);
 		scan.useLocale(Locale.US);
 		int x;
